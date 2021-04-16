@@ -1,4 +1,4 @@
-package main
+package list
 
 type Element struct {
 	next, prev *Element
